@@ -2,8 +2,7 @@
 
 ## What it's this?
 
-KeyRockService used in Tan-Tán
-
+KeyRockService used in TuerCo.
 ## KeyRock?
 
 Everything you need to know about KeyRock is in the [Fiware Catalogue Page](http://catalogue.fiware.org/enablers/identity-management-keyrock) :)
